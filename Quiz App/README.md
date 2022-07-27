@@ -1,9 +1,8 @@
 <p align="center">
- ![download](https://user-images.githubusercontent.com/107770534/181267354-62dd2e3b-076c-4736-8282-adb06b7d07f5.jpg)
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/107770534/181267354-62dd2e3b-076c-4736-8282-adb06b7d07f5.jpg">
 </p>
 
-
-# Project Title
+## Project Title
 
 A basic quiz app made using HTML, Javascript and CSS.
 
