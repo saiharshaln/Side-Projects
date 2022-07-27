@@ -1,6 +1,7 @@
 
-![Logo](https://images.app.goo.gl/GzVoHoW49q3Pa7xu8)
 
+
+<img src="https://images.app.goo.gl/GzVoHoW49q3Pa7xu8" width="500px">
 
 # Project Title
 
