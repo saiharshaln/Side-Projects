@@ -20,8 +20,8 @@ A basic quiz app made using HTML, Javascript and CSS.
 
 ## Demo
 
-Insert gif or link to demo
-<img src="https://i.gyazo.com/39a2dab99ba80d35afcd42c3d2da352d.gif" width="200px">
+<img src="https://i.gyazo.com/86e180bcb5834e03135e9c909b225d64.gif" width="1000px">
+<img src="https://i.gyazo.com/39a2dab99ba80d35afcd42c3d2da352d.gif" width="1000px">
 
 ## Features
 
