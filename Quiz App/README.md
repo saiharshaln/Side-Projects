@@ -1,7 +1,5 @@
 
-
-
-<img src="https://images.app.goo.gl/GzVoHoW49q3Pa7xu8" width="500px">
+![alt text](https://images.app.goo.gl/GzVoHoW49q3Pa7xu8)
 
 # Project Title
 
