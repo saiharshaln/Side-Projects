@@ -1,0 +1,11 @@
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\bin\Debug\T Rex Game.exe.config
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\bin\Debug\T Rex Game.exe
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\bin\Debug\T Rex Game.pdb
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T Rex Game.csproj.AssemblyReference.cache
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T Rex Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T_Rex_Game.Form1.resources
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T_Rex_Game.Properties.Resources.resources
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T Rex Game.csproj.GenerateResource.cache
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T Rex Game.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T Rex Game.exe
+C:\Users\Harshal\source\repos\T Rex Game\T Rex Game\obj\Debug\T Rex Game.pdb
